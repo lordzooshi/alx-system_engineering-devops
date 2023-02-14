@@ -1,2 +1,2 @@
 #!/bin/bash
-NAME="root" echo "hello $root"
+echo "hello $root"
